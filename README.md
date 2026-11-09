@@ -65,6 +65,10 @@ Open **http://localhost:7171**, then connect a media server or choose **Open Vid
 
 For Docker Compose and installation details, see [Getting started](https://cliparr.dev/docs/getting-started).
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Cliparr/)
+
 ## Guides
 
 - [Provider setup and account requirements](https://cliparr.dev/docs/providers)
